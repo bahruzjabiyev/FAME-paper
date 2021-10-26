@@ -1,1 +1,6 @@
 # FAME-paper
+
+This repository contains dataset and code built as a part of an academic research [paper](https://truthandtrustonline.com/wp-content/uploads/2021/10/TTO2021_paper_10.pdf) called _"Game of FAME: Automatic Detection of FAke MEmes"_.
+
+## Paper Abstract
+Memes nowadays are ubiquitous on the Web and play a major role in disinformation campaigns. It is therefore not enough to tackle only the problem of textual disinformation. The research community must also develop new techniques to address the problem of malicious memes (fake memes) that contain misattributed or fabricated quotes, for instance, in online smear campaigns that target politicians and celebrities. To address this problem, we develop a system to automatically detect fake memes; our approach leverages optical character recognition, natural language processing, image processing, and machine learning techniques to carry out this task. Our implementation, a system named FAME, relies on various features to detect visual memes that contain fake or misattributed quotes. FAME classifies memes with 84% true positive rate and 14% false positive rate. It can be used for early detection of meme-based disinformation campaigns, for instance, if deployed on online social networks or messaging applications. To the best of our knowledge, FAME is the first automatic fact-checking tool for memes.
